@@ -4,10 +4,13 @@
 Este projeto visa analisar o desempenho de vendas de uma empresa utilizando SQL para manipulação e transformação de dados e Power BI para visualização dos mesmos. O objetivo principal é fornecer insights detalhados que ajudem na tomada de decisões estratégicas.
 
 ## Tecnologias Utilizadas
-### •SQL: Utilizado para calcular a soma das vendas por EmployeeKey e ProductKey e para classificar as vendas por funcionário utilizando a função DENSE_RANK().
-### •Power BI: Ferramenta de visualização de dados utilizada para criar dashboards interativos que exibem os insights gerados a partir dos dados processados.
+### • SQL: 
+Utilizado para calcular a soma das vendas por EmployeeKey e ProductKey e para classificar as vendas por funcionário utilizando a função DENSE_RANK().
+### • Power BI:
+Ferramenta de visualização de dados utilizada para criar dashboards interativos que exibem os insights gerados a partir dos dados processados.
 
 ##Estrutura do Projeto
+
 ##SQL
 
 O script SQL calcula a soma das vendas por EmployeeKey e ProductKey e rankeia por EmployeeKey. Aqui está um exemplo do código utilizado:
